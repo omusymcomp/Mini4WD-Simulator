@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\VictoryBPLibrary\\Module.VictoryBPLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\VictoryBPLibrary\\VictoryBPLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\VictoryBPLibrary\\RamaColorPicker.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\VictoryBPLibrary\\VictoryBPFunctionLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\VictoryBPLibrary\\VictoryBPFunctionLibrary_WinOS.cpp.obj"
+	]
+}
