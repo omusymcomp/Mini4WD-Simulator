@@ -6,4 +6,5 @@
 
 ![ミニ四駆](Docs/title_image.jpg)
 
+ver. 1.03    ソケット通信による操作に対応
 
