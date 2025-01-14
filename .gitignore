@@ -81,7 +81,8 @@ __pycache__/
 # 仮想環境
 venv/
 ENV/
-Plugins/
+
+Plugins/*
 
 # 設定ファイル
 *.ini
