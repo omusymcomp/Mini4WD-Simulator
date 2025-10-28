@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "MINI4WD_Simulator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -22,6 +32,10 @@
 		},
 		{
 			"Name": "VictoryBPLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
 			"Enabled": true
 		}
 	],
