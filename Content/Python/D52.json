@@ -1,0 +1,58 @@
+{
+    "floatCurve": {
+        "keys": [
+            {
+                "interpMode": "RCIM_Cubic",
+                "tangentMode": "RCTM_User",
+                "tangentWeightMode": "RCTWM_WeightedNone",
+                "time": 0,
+                "value": 1,
+                "arriveTangent": 4.3518078030047036e-08,
+                "arriveTangentWeight": 0,
+                "leaveTangent": 4.3518078030047036e-08,
+                "leaveTangentWeight": 0
+            },
+            {
+                "interpMode": "RCIM_Cubic",
+                "tangentMode": "RCTM_User",
+                "tangentWeightMode": "RCTWM_WeightedNone",
+                "time": 9000.0,
+                "value": 0.55,
+                "arriveTangent": 0,
+                "arriveTangentWeight": 0,
+                "leaveTangent": 0,
+                "leaveTangentWeight": 0
+            },
+            {
+                "interpMode": "RCIM_Cubic",
+                "tangentMode": "RCTM_User",
+                "tangentWeightMode": "RCTWM_WeightedNone",
+                "time": 14000.0,
+                "value": 0.15,
+                "arriveTangent": 9.87177941169648e-07,
+                "arriveTangentWeight": 0,
+                "leaveTangent": 9.87177941169648e-07,
+                "leaveTangentWeight": 0
+            },
+            {
+                "interpMode": "RCIM_Cubic",
+                "tangentMode": "RCTM_User",
+                "tangentWeightMode": "RCTWM_WeightedNone",
+                "time": 25988.900390625,
+                "value": 3.4882948085623866e-08,
+                "arriveTangent": 3.1548188417218626e-07,
+                "arriveTangentWeight": 0,
+                "leaveTangent": 3.1548188417218626e-07,
+                "leaveTangentWeight": 0
+            }
+        ],
+        "defaultValue": 3.4028234663852886e+38,
+        "preInfinityExtrap": "RCCE_Constant",
+        "postInfinityExtrap": "RCCE_Constant"
+    },
+    "bIsEventCurve": false,
+    "assetImportData": {
+        "_ClassName": "/Script/Engine.AssetImportData",
+        "sourceData": {}
+    }
+}
