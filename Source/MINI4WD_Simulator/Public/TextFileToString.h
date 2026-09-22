@@ -9,7 +9,7 @@
  * テキストファイルを読み込み、その内容をFStringとして取得するBlueprint関数ライブラリ
  */
 UCLASS()
-class AMBITIONEARLYHOURSKY_API UTextFileToString : public UBlueprintFunctionLibrary
+class MINI4WD_SIMULATOR_API UTextFileToString : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 
